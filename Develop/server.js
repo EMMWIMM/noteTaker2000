@@ -29,6 +29,10 @@ app.get('/api/notes', (req, res) =>{
   // res.sendfile( path.join(__dirname, '/db/db.json'))
 });
 
+app.post('/api/notes', (req, res) =>{
+  readAndAppend(req.body, './db/db.json')
+})
+
 
 
 // listening to port
