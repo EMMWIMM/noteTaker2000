@@ -12,7 +12,7 @@ A note taking app used to make and save notes that persist in a Database made up
 -html -css -javascript -JSON -Heroku -express.js -node.js
 
 # Deployed Project
-[https://emmwimm.github.io/dailyPlanner/](https://notetaker2000.herokuapp.com/notes)
+https://notetaker2000.herokuapp.com/notes
 
 # Screenshot
 ![Screenshot 1](https://user-images.githubusercontent.com/105828266/193738971-cd7f5795-4889-4038-b6a5-d3925623555e.png)
